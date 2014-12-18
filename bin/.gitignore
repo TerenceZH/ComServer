@@ -1,2 +1,6 @@
 /com/
-/lib/
+/c3p0-0.9.5-pre10.jar
+/c3p0-oracle-thin-extras-0.9.5-pre10.jar
+/mchange-commons-java-0.2.8.jar
+/commons-dbutils-1.6.jar
+/ojdbc6.jar
